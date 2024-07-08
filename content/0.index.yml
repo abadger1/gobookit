@@ -9,7 +9,7 @@ hero:
     to: https://ui.nuxt.com/pro
     icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
-    - label: Get started
+    - label: Get started now
       to: '/signup'
       size: xl
       color: black
